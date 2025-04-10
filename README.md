@@ -11,12 +11,7 @@
 
 **Academic Hub is a revolutionary platform for researchers to create, share, and collaborate on research papers with AI assistance.**
 
-[Features](#-features) • 
-[Getting Started](#-getting-started) • 
-[Usage](#-usage) • 
-[Technologies](#-technologies) • 
-[Roadmap](#-roadmap) • 
-[Contributing](#-contributing)
+[Features](#-features) • [Getting Started](#-getting-started) • [Usage](#-usage) • [Technologies](#-technologies) • [Roadmap](#-roadmap) • [Contributing](#-contributing)
 
 </div>
 
@@ -52,38 +47,37 @@
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
+```bash
 git clone https://github.com/yourusername/academic-hub.git
 cd academic-hub
-\`\`\`
+```
 
 2. Install dependencies:
-\`\`\`bash
+```bash
 npm install
 # or
 yarn install
-\`\`\`
+```
 
 3. Set up environment variables:
 Create a `.env.local` file in the root directory with the following variables:
-\`\`\`
+```env
 NEXT_PUBLIC_API_URL=your_api_url
 GOOGLE_AI_API_KEY=your_gemini_api_key
-\`\`\`
+```
 
 4. Run the development server:
-\`\`\`bash
+```bash
 npm run dev
 # or
 yarn dev
-\`\`\`
+```
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 📖 Usage
 
 ### 📝 Building a Research Paper
-
 1. Navigate to the Paper Builder from your dashboard
 2. Complete each section of your paper in the suggested order
 3. Use the AI Assistant to help generate content or improve your writing
@@ -92,15 +86,14 @@ yarn dev
 6. Export your completed paper in your preferred format
 
 ### 🔍 Plagiarism Detection
-
 The plagiarism detection system works in two ways:
 
-1. **🤖 Automatic Detection**: Whenever AI generates content, it's automatically checked for plagiarism
-2. **👆 Manual Checking**: Use the "Check Plagiarism" button to analyze any section of your paper
+1. **🤖 Automatic Detection**: Whenever AI generates content, it's automatically checked for plagiarism.
+2. **👆 Manual Checking**: Use the "Check Plagiarism" button to analyze any section of your paper.
 
 Understanding the results:
 - **📊 Similarity Score**: Overall percentage of potentially plagiarized content
-- **🚦 Severity Classification**: 
+- **🚦 Severity Classification**:
   - 🟢 Very Low (<10%)
   - 🟡 Low (10-20%)
   - 🟠 Moderate (20-40%)
@@ -111,7 +104,7 @@ Understanding the results:
 
 ## 🏗️ Project Structure
 
-\`\`\`
+```
 academic-hub/
 ├── app/                  # Next.js app directory
 │   ├── api/              # API routes
@@ -126,7 +119,7 @@ academic-hub/
 ├── lib/                  # Utility functions and libraries
 ├── public/               # Static assets
 └── styles/               # Global styles
-\`\`\`
+```
 
 ## 🛠️ Technologies
 
@@ -169,7 +162,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  
+
 © 2023 Academic Hub. All rights reserved.
 
 💡 **Built with AI, for researchers, by researchers** 💡
@@ -177,3 +170,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ❤️ **Made with love by Mannu Baveja** ❤️
 
 </div>
+

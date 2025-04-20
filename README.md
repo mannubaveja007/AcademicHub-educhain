@@ -11,7 +11,7 @@
 
 **Academic Hub is a revolutionary platform for researchers to create, share, and collaborate on research papers with AI assistance.**
 
-🔗 **Live Demo**: [https://v0-academic-hubmain.vercel.app/](https://v0-academic-hubmain.vercel.app/)
+🔗 **Live Demo**: [https://academic-hub-educhain.vercel.app/](https://academic-hub-educhain.vercel.app)
 
 [Features](#-features) • 
 [Getting Started](#-getting-started) • 
@@ -113,6 +113,7 @@ Understanding the results:
 
 ## 🏗️ Project Structure
 
+some minor are happening so Structure is dynamic!
 ```bash
 academic-hub/
 ├── app/                  # Next.js app directory

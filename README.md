@@ -136,9 +136,8 @@ academic-hub/
 - **🖥️ Frontend**: Next.js, React, TypeScript, Tailwind CSS
 - **🧩 UI Components**: shadcn/ui
 - **🤖 AI Integration**: Google Gemini AI
-- **🔐 Authentication**: (To be implemented)
-- **💾 Database**: (To be implemented)
-
+- **🔐 Authentication**: (Open Campus ( OCID ) Edu Chain
+  
 ## 🗺️ Roadmap
 
 - [ ] 🔐 Implement user authentication

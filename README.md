@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Academic Hub Logo](https://via.placeholder.com/800x200?text=Academic+Hub)
+![Academic Hub Logo](https://raw.githubusercontent.com/mannubaveja007/AcademicHub-educhain/main/logo.png)  
+
+
 
 [![Next.js](https://img.shields.io/badge/Next.js-13.0+-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
